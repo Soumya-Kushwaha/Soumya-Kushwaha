@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-kushwaha)](https://github.com/soumya-kushwaha/github-readme-stats)
 
-<!--START_SECTION:activity-->
+START_SECTION:activity
 name: Update README
 
 on:
