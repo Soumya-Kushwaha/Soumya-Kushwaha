@@ -41,10 +41,9 @@
  <h2 align="center">My GitHub's Stats</h2>
 </p>
 
-<p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya-kushwaha&show_icons=true&locale=en&layout=compact" alt="soumya-kushwaha" /></p></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumya-kushwaha&show_icons=true&locale=en" alt="luvksahu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya-kushwaha&" alt="soumya-kushwaha" /></p>
+<p><img align="center">
+   <img width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya-kushwaha&show_icons=true&locale=en&layout=compact" />
+   <img width = "48%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya-kushwaha&" />
+</p>
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=soumya-kushwaha&theme=github" alt="soumya-kushwaha" /></p>
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
