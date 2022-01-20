@@ -47,3 +47,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya-kushwaha&" alt="soumya-kushwaha" /></p>
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=soumya-kushwaha&theme=github" alt="soumya-kushwaha" /></p>
+
+<p>[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)</p>
