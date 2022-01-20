@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/kushwaha-soumya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kushwaha-soumya/" height="30" width="40" /></a>
 <a href="https://twitter.com/kush_soumya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kush_soumya" height="30" width="40" /></a>
 <a href="https://instagram.com/_kush_soumya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kush_soumya" height="30" width="40" /></a>
-<a href="https://www.herinkwrites.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="lks bundelkhand" height="30" width="40" /></a>
+<a href="https://herinkwrites.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="lks bundelkhand" height="30" width="40" /></a>
 </p>
 <h3 align="left">Learning Platforms:</h3>
 <p align="left">
