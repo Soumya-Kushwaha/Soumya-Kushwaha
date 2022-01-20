@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA
 - 🔭 I’m currently solving problems on LeetCode and GeeksforGeeks
 - 🤔 I’m looking for help with development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kushwaha-soumya)  [Email](kushsoumya30@gmail.com)
+- 📫 How to reach me: [kushsoumya30@gmail.com](kushsoumya30@gmail.com)
 - ⚡ Fun fact: We can talk about astrophysics all day!
 
 <h3 align="left">Connect with me:</h3>
@@ -32,6 +32,7 @@
 <a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   
 <!--a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>-->  
- </div>
  
+</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-kushwaha)](https://github.com/soumya-kushwaha/github-readme-stats)
+</div>
