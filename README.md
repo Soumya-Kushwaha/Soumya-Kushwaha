@@ -12,6 +12,7 @@ Find me at:
     icon = "linkedin"
     icon_pack = "fa"
     link = "//linkedin.com/in/kushwaha-soumya"
+    ]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-kushwaha)](https://github.com/soumya-kushwaha/github-readme-stats)
 
