@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA
 - 🔭 I’m currently solving problems on LeetCode and GeeksforGeeks
 - 🤔 I’m looking for help with development.
-- 📫 How to reach me: [kushsoumya30@gmail.com](kushsoumya30@gmail.com)
+- 📫 How to reach me: **kushsoumya30@gmail.com**
 - ⚡ Fun fact: We can talk about astrophysics all day!
 
 <h3 align="left">Connect with me:</h3>
@@ -35,19 +35,15 @@
 <!--a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>-->  
 </div>
 
-
 <p align="center">
 <br><br>
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">My GitHub's Stats</h2>
 </p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya-kushwaha&show_icons=true&locale=en&layout=compact" alt="soumya-kushwaha" /></p>
+<p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya-kushwaha&show_icons=true&locale=en&layout=compact" alt="soumya-kushwaha" /></p></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumya-kushwaha&show_icons=true&locale=en" alt="luvksahu" /></p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya-kushwaha&" alt="soumya-kushwaha" /></p>
-
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=soumya-kushwaha&theme=github" alt="soumya-kushwaha" /></p>
