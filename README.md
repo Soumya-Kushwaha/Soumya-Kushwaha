@@ -1,20 +1,11 @@
 ### Hi there! 👋
 
 - 🌱 I’m currently learning DSA
-<!--
-**Soumya-Kushwaha/Soumya-Kushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🔭 I’m currently solving problems on LeetCode and GeeksforGeeks
+- 🤔 I’m looking for help with development.
+- 💬 Ask me about C++, mysql.
+- 📫 How to reach me: https://www.linkedin.com/in/kushwaha-soumya
+- ⚡ Fun fact: We can talk about astrophysics all day!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-kushwaha)](https://github.com/soumya-kushwaha/github-readme-stats)
 
@@ -36,4 +27,9 @@ jobs:
       - uses: soumya-kushwaha/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+<!--
+**Soumya-Kushwaha/Soumya-Kushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 -->
