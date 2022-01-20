@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning DSA
 - 🔭 I’m currently solving problems on LeetCode and GeeksforGeeks
 - 🤔 I’m looking for help with development.
-- 💬 Ask me about C++, mysql.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kushwaha-soumya) [Email](kushsoumya30@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kushwaha-soumya)  [Email](kushsoumya30@gmail.com)
 - ⚡ Fun fact: We can talk about astrophysics all day!
 
 <h3 align="left">Connect with me:</h3>
