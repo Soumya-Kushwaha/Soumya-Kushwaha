@@ -32,8 +32,7 @@
 <a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87495134/150532941-dc3e4e87-83fd-49f9-aed1-631836d14004.png" alt ="figma" width="40" height="40"/>
-  
-<!--a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>-->  
+<a href="https://www.blogger.com/about/?bpli=1/" target="_blank"> <img src="https://user-images.githubusercontent.com/87495134/150533222-513a8b7e-2c9e-4eb7-9de7-aa30937ecf94.png" alt="blogger" width="40" height="40"/>
 </div>
 
 <p align="center">
