@@ -31,6 +31,7 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87495134/150531777-f08240ef-6d7e-4c45-bac4-7083b86d7d99.png" alt ="figma" width="40" height="40"/>
   
 <!--a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>-->  
 </div>
