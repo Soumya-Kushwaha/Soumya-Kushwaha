@@ -36,7 +36,7 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> 
 <a href="https://www.python.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87495134/150840448-e753ae8b-eb0b-4c5f-99ee-8da1793de914.png" alt="Python" width="40" height="40"/>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87495134/150840443-df988b5b-5614-4b40-8ae0-cdb0490330cd.png" alt ="Figma" width="40" height="40"/>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt ="Figma" width="40" height="40"/>
 <a href="https://www.canva.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87495134/150534196-3a22ab5a-f3b2-4d2f-bc5f-9d0038c55c4e.png" alt="Canva" width="40" height="40"/>
 </div>
 
