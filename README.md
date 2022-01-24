@@ -1,9 +1,13 @@
 ### Here is what I am working on! 👋
 
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+
 - 🔭 I’m currently solving problems on LeetCode and GeeksforGeeks
+
 - 🤔 I’m looking for help with development.
+
 - 📫 How to reach me: **kushsoumya30@gmail.com**
+
 - ⚡ Fun fact: We can talk about astrophysics all day!
 
 <h3 align="left">Connect with me:</h3>
