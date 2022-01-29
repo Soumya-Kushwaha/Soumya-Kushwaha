@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 🔭 I’m currently solving problems on LeetCode and GeeksforGeeks
+<!--- 🔭 I’m currently solving problems on LeetCode and GeeksforGeeks-->
 
 - 🤔 I’m looking for help with development.
 
