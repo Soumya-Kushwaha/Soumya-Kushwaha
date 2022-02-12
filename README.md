@@ -51,4 +51,4 @@
    <img width = "48%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya-kushwaha&" />
 </p>
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=soumya-kushwaha&theme=github" alt="soumya-kushwaha" /></p>
+<!--- p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=soumya-kushwaha&theme=github" alt="soumya-kushwaha" /></p>--->
