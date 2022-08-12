@@ -39,18 +39,12 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <div align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
- 
+<a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
 <a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
- 
 <a href="https://www.python.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87495134/150840448-e753ae8b-eb0b-4c5f-99ee-8da1793de914.png" alt="Python" width="40" height="40"/>
- 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
- 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
- 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt ="Figma" width="40" height="40"/>
-
 <a href="https://www.canva.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87495134/150841164-564de63a-c5d8-4c16-be1d-6230921379d8.png" alt="Canva" width="40" height="40"/>
 </div>
 
