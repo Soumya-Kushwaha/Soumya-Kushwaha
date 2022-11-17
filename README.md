@@ -75,6 +75,6 @@
 <br>
                    
 <div align="center">
-<img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=soumya-kushwaha&theme=radical"/>
+<img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=soumya-kushwaha&theme=radical&custom_title=Github Streak"/>
 </div>
 <br>
