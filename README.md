@@ -16,7 +16,7 @@
 
 **Data Structures and Algorithms**
 
-**Python, Java, JavaScript & C** 💻
+**Python, C++, C & mySQL** 💻
 
 **Blogs & Content Writing** 📝
 
