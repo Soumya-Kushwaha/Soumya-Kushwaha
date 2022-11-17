@@ -75,5 +75,10 @@
 <br>
 
 <div align="center">
+<img width="500px" src=[![GitHub Streak](https://streak-stats.demolab.com/?user=soumya-kushwaha)](https://git.io/streak-stats) />
+</div>
+<br>
+
+<div align="center">
 <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=soumya-kushwaha&theme=redical">
 </div>
