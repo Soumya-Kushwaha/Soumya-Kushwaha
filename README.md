@@ -77,6 +77,10 @@
 <div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soumya-kushwaha&theme=radical&hide_border=true)](https://git.io/streak-stats)
 </div>
+                   
+<div align="center">
+<img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=soumya-kushwaha&theme=radical&hide_border=true"/>                                     </div>
+<br>
 
 <div align="center">
 <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=soumya-kushwaha&theme=redical">
