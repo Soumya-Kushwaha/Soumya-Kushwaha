@@ -76,5 +76,5 @@
 <br>
 
 <div align="center">
-<img width="600px"src="https://activity-graph.herokuapp.com/graph?username=kartikver15gr8&theme=redical">
+<img width="600px"src="https://activity-graph.herokuapp.com/graph?username=soumya-kushwaha&theme=redical">
 </div>
