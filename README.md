@@ -74,10 +74,7 @@
 </div>
 <br>
 
-<div align="center">
-<img width="500px" src=[![GitHub Streak](https://streak-stats.demolab.com/?user=soumya-kushwaha)](https://git.io/streak-stats) />
-</div>
-<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soumya-kushwaha&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <div align="center">
 <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=soumya-kushwaha&theme=redical">
