@@ -1,8 +1,8 @@
 <h1 align= "center">
-   <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=7BF7ED&center=true&vCenter=true&width=550&height=100&lines=I'm+Soumya!">
+   <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=fde74c&center=true&vCenter=true&width=550&height=100&lines=I'm+Soumya!">
 </h1>
 
-### :woman_technologist: About Me :
+### :woman_technologist: ABOUT ME:
 
 👀 **I’m an undergraduate engineering student, pursuing my B.Tech in Information Technology from Madhav Institute of Technology and Science, Gwalior.**
 
@@ -18,7 +18,6 @@
 
 **Python, Java, JavaScript & C** 💻
 
-
 **Blogs & Content Writing** 📝
 
 **DBMS, OS, Computer Networks**
@@ -27,7 +26,7 @@
 
 **Git & GitHub** 
 
-### :man_technologist: Let's connect :
+### :woman_technologist: LET'S CONNECT!
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/kushwaha-soumya/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kushwaha-soumya/" height="30" width="40" />
@@ -35,13 +34,13 @@
   <a href="https://twitter.com/kush_soumya" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kush_soumya" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/soumya_kush/" target="blank">
+  <a href="https://leetcode.com/soumya_kush" target="blank">
   <img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/leet-code.svg" alt="soumya_kush" height="30" width="40" />
   </a>
 </div>
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
   
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: LANGUAGES AND TOOLS :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>&nbsp;
@@ -63,7 +62,7 @@
 
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
-### :fire: My Stats :
+### :fire: MY STATS :
 
 <div align="center">
 <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-kushwaha&layout=compact&theme=radical&custom_title=Languages"/>
