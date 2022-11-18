@@ -34,9 +34,6 @@
   <a href="https://twitter.com/kush_soumya" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kush_soumya" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/soumya_kush" target="blank">
-  <img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/leet-code.svg" alt="soumya_kush" height="30" width="40" />
-  </a>
 </div>
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
   
