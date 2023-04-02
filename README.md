@@ -36,3 +36,26 @@ I’m an undergraduate engineering student, pursuing my B.Tech in Information Te
 <code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"></code>
+
+## Just Github things:
+
+<details>	
+  <summary><b>⚡Github Stats </b></summary>
+
+  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soumya-Kushwaha&show_icons=true&theme=dracula" />
+ </details>
+ 
+ <details>	
+  <summary><b>☄️ Github Streaks </b></summary>
+
+  <br/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumya-Kushwaha&hide_border=true" />
+</details>
+
+#
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
