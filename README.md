@@ -7,7 +7,7 @@
 
 I’m an undergraduate engineering student, pursuing my B.Tech in Information Technology from Madhav Institute of Technology and Science, Gwalior. <br> I'm a passionate learner who's always willing to learn and work across technologies and domains. <br>I love to explore new technologies and leverage them to solve real-life problems. <br> I'm currently into Artificial Intelligence 🕸️ and working on my Data Structures and Algorithms.
 
-## Talking about Personal Stuffs:
+## Technical Stuff:
 
 - 🛠 &nbsp; I’m currently working with Natural Language Processing, Image Recognition, Gesture Recognition, Speech Recognition, Emotion Recognition, etc.
 - 🚀 &nbsp; I’m currently learning Artificial Intelligence.
