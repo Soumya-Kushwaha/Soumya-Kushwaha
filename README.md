@@ -15,14 +15,13 @@ I’m an undergraduate engineering student, pursuing my B.Tech in Information Te
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/kushwaha-soumya)! I am happy to help.
 - 📫 &nbsp; How to reach me: kushsoumya30@gmail.com.
 
-## My Absolute Favorites:
+## Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Hackathons, meetups & tech events.
 - 🍕 &nbsp; Astronomy and literature any day!
 
 ## Languages and Tools:
-
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="Cpp"></code>
