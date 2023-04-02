@@ -1,4 +1,4 @@
-# Hey 👋, I'm [Soumya Kushwaha](https://github.com/Soumya-Kushwaha/)
+# Hey 👋, I'm Soumya Kushwaha!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kushwaha-soumya)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/kush_soumya)
