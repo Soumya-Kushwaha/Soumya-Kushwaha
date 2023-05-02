@@ -39,7 +39,15 @@ I’m an undergraduate engineering student, pursuing my B.Tech in Information Te
 
 ## Just Github things:
 
-<details>	
+<b>⚡Github Stats </b>
+
+[![kush-soumya's GitHub | Stats](https://stats.quine.sh/kush-soumya/github?theme=dark)](https://quine.sh)
+
+<b>☄️ Github Streaks </b>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumya-Kushwaha&hide_border=true" />
+
+<!--- <details>	
   <summary><b>⚡Github Stats </b></summary>
 
   <br/>
@@ -52,6 +60,7 @@ I’m an undergraduate engineering student, pursuing my B.Tech in Information Te
   <br/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumya-Kushwaha&hide_border=true" />
 </details>
+!--->
 
 #
 <div align="center">
