@@ -9,7 +9,7 @@ I’m an undergraduate engineering student, pursuing my B.Tech in Information Te
 
 ## Technical Stuff:
 
-- 🛠 &nbsp; I’m currently working with Natural Language Processing, Image Recognition, Gesture Recognition, Speech Recognition etc.
+- 🛠 &nbsp; I’m currently working on Natural Language Processing, Image Recognition, Gesture Recognition, Speech Recognition etc.
 - 🚀 &nbsp; I’m currently learning Artificial Intelligence.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Soumya-Kushwaha).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/kushwaha-soumya)! I am happy to help.
