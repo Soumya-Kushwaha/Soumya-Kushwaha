@@ -42,6 +42,7 @@ I’m an undergraduate engineering student, pursuing my B.Tech in Information Te
 <b>⚡Github Stats </b>
 
 [![kush-soumya's GitHub | Stats](https://stats.quine.sh/kush-soumya/github?theme=dark)](https://quine.sh)
+[![kush-soumya's GitHub | Stats](https://stats.quine.sh/kush-soumya/github?theme=dark)](https://quine.sh)
 
 <b>☄️ Github Streaks </b>
 
