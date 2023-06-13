@@ -49,7 +49,7 @@ I’m an undergraduate engineering student, pursuing my B.Tech in Information Te
 
 <!---
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soumya-Kushwaha&show_icons=true&locale=en" />
- 
+
 <details>	
   <summary><b>⚡Github Stats </b></summary>
 
