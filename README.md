@@ -5,7 +5,7 @@
 
 ### Glad to see you here! 🔭
 
-I’m an undergraduate engineering student, pursuing my B.Tech in Information Technology with specialization in Internet of Things from Madhav Institute of Technology and Science (MITS), Gwalior. <br> I'm a passionate learner who's always willing to learn and work across technologies and domains. <br>I love to explore new technologies and leverage them to solve real-life problems. <br> I'm currently into Artificial Intelligence 🕸️ and working on my Data Structures and Algorithms.
+I’m an undergraduate engineering student, pursuing my B.Tech in Information Technology. <br> I'm a passionate learner who's always willing to learn and work across technologies and domains. <br>I love to explore new technologies and leverage them to solve real-life problems. <br> I'm currently into Artificial Intelligence 🕸️ and working on my Data Structures and Algorithms.
 
 ## Technical Stuff:
 
