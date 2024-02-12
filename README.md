@@ -21,7 +21,7 @@ I’m an undergraduate engineering student, pursuing my B.Tech in Information Te
 
 - 🛠 &nbsp; I’m currently working on Natural Language Processing, Image Recognition, Gesture Recognition, Speech Recognition etc.
 - 🚀 &nbsp; I’m currently learning Artificial Intelligence.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Soumya-Kushwaha).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Soumya-Kushwaha) and [Kaggle](https://www.kaggle.com/soumyakushwaha).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/kushwaha-soumya)! I am happy to help.
 - 📫 &nbsp; How to reach me: kushsoumya30@gmail.com.
 
