@@ -65,6 +65,8 @@ I’m an undergraduate engineering student, pursuing my B.Tech in Information Te
 <!---
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soumya-Kushwaha&show_icons=true&locale=en" />
 
+!--->
+
 <details>	
   <summary><b>⚡Github Stats </b></summary>
 
@@ -78,7 +80,6 @@ I’m an undergraduate engineering student, pursuing my B.Tech in Information Te
   <br/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumya-Kushwaha&hide_border=true" />
 </details>
-!--->
 
 #
 <div align="center">
