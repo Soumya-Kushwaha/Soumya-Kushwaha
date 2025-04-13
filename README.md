@@ -27,6 +27,7 @@ I am a **software engineer** passionate about **AI, backend development, and pro
 
 ## 🔗 Projects  
 
+- **[Smart Email Reply Assistant](https://github.com/Soumya-Kushwaha/smart-email-reply-assistant)** - A productivity tool that seamlessly integrates with Gmail to generate intelligent email responses.
 - **[SQL Chat](https://github.com/Soumya-Kushwaha/SQL-Chat)** – A chatbot that translates natural language queries into SQL commands.  
 - **[ML Model Explorer](https://github.com/Soumya-Kushwaha/ML-Model-Explorer)** – A tool for dataset insights and model evaluation.  
 - **[AquaSense](https://github.com/Soumya-Kushwaha/AquaSense)** – Water quality analysis using ML classification models.  
