@@ -38,5 +38,5 @@ I am a **software engineer** passionate about **AI, backend development, and pro
 ## 📫 Let's Connect!
 
 💼 [LinkedIn](https://linkedin.com/in/kushwaha-soumya)
-📧 [kushsoumya30@gmail.com](mailto:kushsoumya30@gmail.com)
+📧 [Mail](mailto:soumyakushwaha30@gmail.com)
 🌐 [Portfolio](https://soumyakushwaha.vercel.app)
